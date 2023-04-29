@@ -1,4 +1,4 @@
-# Guide imprimante Taff Café – Windows 11
+# Guide imprimante Taf Café – Windows 11
 ## Installation
 
 1. appuyer sur la touche windows et taper "imprimante" et selectionner "imprimantes et scanners" ouvrir le panneau des imprimantes et scanner
