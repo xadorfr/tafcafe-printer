@@ -2,12 +2,11 @@
 
 ## Installation
 
-- Télécharger driver postscript pour Canon iR-ADV C3525/3530
-- Lien : https://www.canon.fr/support/products/imagerunner/imagerunner-advance-c3530i-iii.html , puis télécharger PS Printer Driver & Utilities for Macintosh
+- Lien : https://www.canon.fr/support/products/imagerunner/imagerunner-advance-c3530i-iii.html , puis télécharger UFR Printer Driver & Utilities for Macintosh
 - Menu   / Préférences Système / Imprimantes et scanners
 - Ajout Imprimante / LPD Printer Daemon – LPD
 - Adresse : 192.168.33.10
-- Sélectionner logiciel / Canon iR-ADV C3525/3530 III PS
+- Sélectionner logiciel / Canon iR-ADV C3525/3530 III
 
 ![](./media/installation.png)
 
