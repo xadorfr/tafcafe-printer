@@ -6,7 +6,7 @@
 - Menu   / Préférences Système / Imprimantes et scanners
 - Ajout Imprimante / LPD Printer Daemon – LPD
 - Adresse : 192.168.33.10
-- Sélectionner logiciel / Canon iR-ADV C3525/3530 III
+- Sélectionner logiciel / ~~Canon iR-ADV C3525/3530 III~~ Canon C3922i
 
 ![](./media/installation.png)
 
